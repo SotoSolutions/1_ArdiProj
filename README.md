@@ -1,1 +1,2 @@
-# 1_ArdiProj
+#1_ArdiProj
+# First project of our team
